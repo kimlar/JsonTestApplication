@@ -1,0 +1,2 @@
+# JsonTestApplication
+Forex chart app
